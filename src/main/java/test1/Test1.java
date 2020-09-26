@@ -6,7 +6,7 @@ public class Test1 {
 	{
 
 		System.out.println("This message is from Eclipse");
-		System.out.println("This message is from GITHUB again");
+		System.out.println("This message is from GITHUB");
 
 	}
 
